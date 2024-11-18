@@ -1,0 +1,122 @@
+[
+    {
+        "country": "United States",
+        "capital": "Washington, D.C."
+    },
+    {
+        "country": "United Kingdom",
+        "capital": "London"
+    },
+    {
+        "country": "France",
+        "capital": "Paris"
+    },
+    {
+        "country": "Germany",
+        "capital": "Berlin"
+    },
+    {
+        "country": "Italy",
+        "capital": "Rome"
+    },
+    {
+        "country": "Spain",
+        "capital": "Madrid"
+    },
+    {
+        "country": "Japan",
+        "capital": "Tokyo"
+    },
+    {   
+        "country": "China",
+        "capital": "Beijing"
+    },
+    {
+        "country": "India",
+        "capital": "New Delhi"
+    },
+    {
+        "country": "Russia",
+        "capital": "Moscow"
+    },
+    {
+        "country": "Canada",
+        "capital": "Ottawa"
+    },
+    {
+        "country": "Brazil",
+        "capital": "Brasilia"
+    },
+    {
+        "country": "Australia",
+        "capital": "Canberra"
+    },
+    {
+        "country": "Mexico",
+        "capital": "Mexico City"
+    },
+    {
+        "country": "South Korea",
+        "capital": "Seoul"
+    },
+    {
+        "country": "Turkey",
+        "capital": "Ankara"
+    },
+    {
+        "country": "Egypt",
+        "capital": "Cairo"
+    },
+    {
+        "country": "Saudi Arabia",
+        "capital": "Riyadh"
+    },
+    {
+        "country": "Iran",
+        "capital": "Tehran"
+    },
+    {
+        "country": "Pakistan",
+        "capital": "Islamabad"
+    },
+    {
+        "country": "Nigeria",
+        "capital": "Abuja"
+    },
+    {
+        "country": "Indonesia",
+        "capital": "Jakarta"
+    },
+    {
+        "country": "Philippines",
+        "capital": "Manila"
+    },
+    {
+        "country": "Thailand",
+        "capital": "Bangkok"
+    },
+    {
+        "country": "Vietnam",
+        "capital": "Hanoi"
+    },
+    {
+        "country": "Myanmar",
+        "capital": "Naypyidaw"
+    },
+    {
+        "country": "Cambodia",
+        "capital": "Phnom Penh"
+    },
+    {
+        "country": "Laos",
+        "capital": "Vientiane"
+    },
+    {
+        "country": "Ethiopia",
+        "capital": "Addis Ababa"
+    },
+    {
+        "country": "Afghanistan",
+        "capital": "Kabul"
+    }
+]

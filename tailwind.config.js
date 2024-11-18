@@ -8,7 +8,13 @@ export default {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 
 	theme: {
-		extend: {}
+		extend: {
+			colors: {
+				'earth-light': '#272d3f',
+				'earth-medium': '#191d2d',
+				'earth-dark': '#0d111c',
+			},
+		},
 	},
 
 	plugins: [typography, forms, containerQueries, aspectRatio]
